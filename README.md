@@ -5,5 +5,4 @@ This program uses the PyPI SpeechRecognition library, which can be found here:
 https://pypi.org/project/SpeechRecognition/
 
 For the program to work, the SpeechRecognition library must be installed on your system, which can be done easily with 
-
 *pip install SpeechRecognition*
