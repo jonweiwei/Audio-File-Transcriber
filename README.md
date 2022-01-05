@@ -1,5 +1,5 @@
 # Audio-File-Transcriber
-A python program that reads audio data from a given .wav file and creates a new text file with the transcribed audio
+A Python program that reads audio data from a given .wav file and creates a new text file with the transcribed audio
 
 This program uses the PyPI SpeechRecognition library, which can be found here:
 https://pypi.org/project/SpeechRecognition/
